@@ -43,6 +43,7 @@ Chicken is brined overnight and smoked for an hour or so.
  + Apply sage, thyme, rosemary, salt, pepper, and garlic powder to skin.  "Some" of each is fine.  Not too much of any one.
  + Spray chicken with pam
  + Smoke at desired temperature until breast is 165 and thigh is 180.  Nothing should be under 165
+ + Remove from smoker, cover, and allow to rest for 30 minutes.
  
 ## Notes
 
