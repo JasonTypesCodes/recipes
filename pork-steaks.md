@@ -26,3 +26,4 @@
 ### 10/13/2017
  
  + Due to a miscommunication with the butcher, my current lot of pork steaks are 1/4" thick and the times above are way off.  Need to experiment further with these when we have the proper width available.
+ + A surprising number of recipes online brine their porksteak..
