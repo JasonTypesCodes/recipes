@@ -28,11 +28,12 @@ Chicken is brined overnight and smoked for an hour or so.
  + Sage
  + Thyme
  + Rosemary
+ + Ground Corriander
  + Salt
  + Pepper
  + Garlic Powder
  + String
- + Pam
+ + Room Temperature butter
 
 ### Instructions
 
@@ -40,9 +41,9 @@ Chicken is brined overnight and smoked for an hour or so.
  + Clean apple and cut in quarters
  + Alternate placing apple and onion quarters into chicken cavity until full
  + Truss the chicken with string
- + Apply sage, thyme, rosemary, salt, pepper, and garlic powder to skin.  "Some" of each is fine.  Not too much of any one.
- + Spray chicken with pam
- + Smoke at desired temperature until breast is 165 and thigh is 180.  Nothing should be under 165
+ + Spread a small amount of the butter on the outer skin and if desired between the skin and breast meat.  It doesn't take much.
+ + Apply sage, thyme, rosemary, ground corriander, salt (skip if brined), pepper, and garlic powder to skin.  "Some" of each is fine.  Not too much of any one.
+ + Smoke at 300 until breast is 165 and thigh is 180.  Nothing should be under 165.
  + Remove from smoker, cover, and allow to rest for 30 minutes.
  
 ## Notes
@@ -55,3 +56,9 @@ Chicken is brined overnight and smoked for an hour or so.
  + Had issues maintaining 275 degrees in smoker.  I think 300 is probably OK.
  + Want to experiment with placing chicken in a pan with a little stock in the bottom and covering with foil to finish.  Maybe transfer once color looks good and thigh reaches 160.
  + Probably don't need salt on outside of chicken with the brine.
+
+### 8/12/2018
+
+ + Added ground corrainder to the outer spices and it went very well.
+ + Drip pan provided some protection and better color / skin.  I think with the drip pan in place I might be able to smoke at 300 to color and then 350 to finish.
+ 
